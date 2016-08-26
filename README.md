@@ -10,7 +10,7 @@ first
 and your project
 
 ```javascript
-const awesomeLogger = require('awesome-logger');
+const awesomeLogger = require('awesome-log');
 
 awesomeLogger({
   firename: 'myLogger',
