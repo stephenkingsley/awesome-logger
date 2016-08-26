@@ -5,7 +5,7 @@ this is nodejs logger component. It's faster, light and easy to use!
 
 first
 
-    npm i --save awesome-logger
+    npm i --save awesome-log
 
 and your project
 
