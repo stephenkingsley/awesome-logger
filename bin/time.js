@@ -26,7 +26,7 @@ const stringTime = (date) => {
   const Month = doubleDigitFormat(date.getMonth() + 1);
   const day = doubleDigitFormat(date.getDate());
   const hours = doubleDigitFormat(date.getHours());
-  return `${year}${Month}${day}${hours}${doubleDigitFormat(date.getSeconds())}`;
+  return `${year}${Month}${day}${hours}`;
 };
 
 const getDateHours = (date) => {

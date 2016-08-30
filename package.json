@@ -1,6 +1,6 @@
 {
   "name": "awesome-log",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "nodejs logger, small and faster, and change file name one hour",
   "main": "index.js",
   "bin": {
